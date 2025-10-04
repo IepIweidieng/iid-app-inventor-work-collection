@@ -2,7 +2,8 @@
 
 Can be imported at <https://ai2.appinventor.mit.edu/>.
 
-Homework projects created when I was in the 程式設計小隊 ("programming designing team") in my senior highschool.
+Homework projects created on the computer course when I was in my
+senior high school.
 
 * test: Created 2014-10-15 21:32:10
 * C\_to\_F: Created 2015-11-30 14:24:44
